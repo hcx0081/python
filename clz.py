@@ -1,6 +1,6 @@
 class Person:
     @classmethod
-    def cm(self):
+    def _cm(self):
         print("类方法")
 
     @staticmethod
